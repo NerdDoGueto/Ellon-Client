@@ -1,0 +1,30 @@
+AddonButton < UIButton
+  width: 97
+  height: 121
+
+Panel
+  AddonButton
+    image-source: /modules/game_shop/images/buttonimg/weapon_box
+    anchors.top: parent.top
+    anchors.left: parent.left
+    @onClick: modules.game_shop.buyAssassin()
+
+  AddonButton
+    image-source: /modules/game_shop/images/buttonimg/surprise_box
+    anchors.top: parent.top
+    anchors.right: parent.right
+    margin-top: 0
+    @onClick: modules.game_shop.buyAssassin()
+  AddonButton
+    image-source: /modules/game_shop/images/buttonimg/forje_box
+    anchors.top: parent.top
+    anchors.right: parent.right
+    margin-right: 125
+    @onClick: modules.game_shop.buyPremium2()
+  AddonButton
+    image-source: /modules/game_shop/images/buttonimg/exclusive_box
+    anchors.top: parent.top
+    anchors.right: parent.right
+    margin-right: 250
+    margin-top: 0
+    @onClick: modules.game_shop.buyArcher()

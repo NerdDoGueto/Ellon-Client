@@ -1,0 +1,44 @@
+AddonButton < UIButton
+  width: 97
+  height: 121
+
+Panel
+  AddonButton
+    image-source: /modules/game_shop/images/buttonimg/crystal_teleport
+    anchors.top: parent.top
+    anchors.left: parent.left
+    @onClick: modules.game_shop.buyTeleport()
+
+  AddonButton
+    image-source: /modules/game_shop/images/buttonimg/key_nvl3
+    anchors.top: parent.top
+    anchors.right: parent.right
+    margin-top: 0
+    @onClick: modules.game_shop.buyKey3()
+  AddonButton
+    image-source: /modules/game_shop/images/buttonimg/key_nvl4
+    anchors.top: parent.top
+    anchors.left: parent.left
+    margin-top: 150
+    @onClick: modules.game_shop.buyKey4()
+  
+  AddonButton
+    image-source: /modules/game_shop/images/buttonimg/key_nvl2
+    anchors.top: parent.top
+    anchors.right: parent.right
+    margin-right: 125
+    @onClick: modules.game_shop.buyKey2()
+  AddonButton
+    image-source: /modules/game_shop/images/buttonimg/key_nvl1
+    anchors.top: parent.top
+    anchors.right: parent.right
+    margin-right: 250
+    margin-top: 0
+    @onClick: modules.game_shop.buyKey1()
+  AddonButton
+    image-source: /modules/game_shop/images/buttonimg/key_nvl5
+    anchors.top: parent.top
+    anchors.left: parent.left
+    margin-top: 150
+    margin-left: 125
+    @onClick: modules.game_shop.buyKey5()

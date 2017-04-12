@@ -1,0 +1,28 @@
+MainWindow
+  id: shopWindow
+  !text: tr('Ellon Shop')
+  size: 600 600
+
+  @onEnter: modules.game_shop.hide()
+  @onEscape: modules.game_shop.hide()
+
+  TabBarVertical
+    id: shopTabBar
+    anchors.top: parent.top
+    anchors.left: parent.left
+    anchors.bottom: closeButton.top
+
+  Panel
+    id: shopTabContent
+    anchors.top: shopTabBar.top
+    anchors.left: shopTabBar.right
+    anchors.right: parent.right
+    anchors.bottom: closeButton.top
+
+  Button
+    id: closeButton
+    anchors.bottom: parent.bottom
+    anchors.right: parent.right
+    !text: tr('Close')
+    width: 90
+    @onClick: modules.game_shop.hide()

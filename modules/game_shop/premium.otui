@@ -1,0 +1,24 @@
+AddonButton < UIButton
+  width: 97
+  height: 121
+
+Panel
+  AddonButton
+    image-source: /modules/game_shop/images/buttonimg/premium_30days
+    anchors.top: parent.top
+    anchors.left: parent.left
+    @onClick: modules.game_shop.buyPremium()
+
+  AddonButton
+    image-source: /modules/game_shop/images/buttonimg/premium_60days
+    anchors.top: parent.top
+    anchors.right: parent.right
+    margin-right: 250
+    @onClick: modules.game_shop.buyPremium2()
+
+  AddonButton
+    image-source: /modules/game_shop/images/buttonimg/premium_90days
+    anchors.top: parent.top
+    anchors.right: parent.right
+    margin-right: 125
+    @onClick: modules.game_shop.buyPremium3()
