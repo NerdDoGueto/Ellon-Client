@@ -1,0 +1,1104 @@
+== application started at Feb 05 2017 08:07:23
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+Startup done :]
+Exiting application..
+== application started at Feb 05 2017 08:24:33
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+Startup done :]
+Exiting application..
+== application started at Feb 05 2017 08:41:43
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+Startup done :]
+ERROR: /client_entergame/entergame.lua:42: attempt to index global 'ServerList' (a nil value)
+ERROR: /client_entergame/entergame.lua:42: attempt to index global 'ServerList' (a nil value)
+Exiting application..
+== application started at Feb 05 2017 08:43:21
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+Startup done :]
+Exiting application..
+== application started at Feb 05 2017 08:43:33
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+Startup done :]
+ERROR: /client_entergame/entergame.lua:42: attempt to index global 'ServerList' (a nil value)
+Exiting application..
+== application started at Feb 05 2017 08:46:01
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to discover module from file '/client/client.otmod': OTML error in '/client/client.otmod' at line 20: indentation with tabs are not allowed
+FATAL ERROR: Unable to load 'client' module
+== application started at Feb 05 2017 08:46:05
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to discover module from file '/client/client.otmod': OTML error in '/client/client.otmod' at line 20: indentation with tabs are not allowed
+FATAL ERROR: Unable to load 'client' module
+== application started at Feb 05 2017 08:47:32
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+Startup done :]
+Exiting application..
+== application started at Feb 05 2017 09:07:06
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+Startup done :]
+Exiting application..
+== application started at Feb 05 2017 09:10:12
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+Startup done :]
+Exiting application..
+== application started at Feb 06 2017 20:16:50
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+Startup done :]
+ERROR: no thing at pos:8345 9308 7, stackpos:2
+at:
+	[C++]: ProtocolGame::getMappedThing
+ERROR: no thing
+at:
+	[C++]: ProtocolGame::parseTileRemoveThing
+ERROR: no thing at pos:8287 9585 7, stackpos:1
+at:
+	[C++]: ProtocolGame::getMappedThing
+ERROR: no thing
+at:
+	[C++]: ProtocolGame::parseTileTransformThing
+ERROR: no thing at pos:8287 9585 7, stackpos:1
+at:
+	[C++]: ProtocolGame::getMappedThing
+ERROR: no thing
+at:
+	[C++]: ProtocolGame::parseTileRemoveThing
+Exiting application..
+== application started at Feb 07 2017 08:42:34
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+Exiting application..
+== application started at Feb 07 2017 08:43:33
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+ERROR: audio buffer underrun
+at:
+	[C++]: StreamSoundSource::update
+Exiting application..
+== application started at Feb 07 2017 18:26:48
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+ERROR: audio buffer underrun
+at:
+	[C++]: StreamSoundSource::update
+Exiting application..
+== application started at Feb 09 2017 07:44:13
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+Exiting application..
+== application started at Feb 09 2017 07:44:34
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+ERROR: audio buffer underrun
+at:
+	[C++]: StreamSoundSource::update
+Exiting application..
+== application started at Feb 09 2017 16:40:34
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+Exiting application..
+== application started at Feb 09 2017 16:41:14
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+ERROR: audio buffer underrun
+at:
+	[C++]: StreamSoundSource::update
+ERROR: audio buffer underrun
+at:
+	[C++]: StreamSoundSource::update
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+Exiting application..
+== application started at Feb 09 2017 16:46:26
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to discover module from file '/game_interface/interface.otmod': OTML error in '/game_interface/interface.otmod' at line 34: indentation with tabs are not allowed
+FATAL ERROR: Unable to load 'game_interface' module
+== application started at Feb 09 2017 16:46:46
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+Exiting application..
+== application started at Feb 09 2017 16:49:38
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to discover module from file '/game_interface/interface.otmod': OTML error in '/game_interface/interface.otmod' at line 23: indentation with tabs are not allowed
+FATAL ERROR: Unable to load 'game_interface' module
+== application started at Feb 09 2017 16:50:34
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+ERROR: audio buffer underrun
+at:
+	[C++]: StreamSoundSource::update
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9450, z=6}
+  Music: music/Kingdomellon.ogg
+Exiting application..
+== application started at Feb 09 2017 16:55:12
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+ERROR: audio buffer underrun
+at:
+	[C++]: StreamSoundSource::update
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9447, z=6}
+  Music: music/Kingdomellon.ogg
+Exiting application..
+== application started at Feb 09 2017 21:00:55
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+ERROR: audio buffer underrun
+at:
+	[C++]: StreamSoundSource::update
+RC Sounds: New sound area detected:
+  Position: {x=8371, y=9412, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+Exiting application..
+== application started at Feb 10 2017 21:24:53
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+ERROR: audio buffer underrun
+at:
+	[C++]: StreamSoundSource::update
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+ERROR: audio buffer underrun
+at:
+	[C++]: StreamSoundSource::update
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+ERROR: audio buffer underrun
+at:
+	[C++]: StreamSoundSource::update
+ERROR: audio buffer underrun
+at:
+	[C++]: StreamSoundSource::update
+ERROR: audio buffer underrun
+at:
+	[C++]: StreamSoundSource::update
+ERROR: audio buffer underrun
+at:
+	[C++]: StreamSoundSource::update
+ERROR: audio buffer underrun
+at:
+	[C++]: StreamSoundSource::update
+ERROR: audio buffer underrun
+at:
+	[C++]: StreamSoundSource::update
+ERROR: audio buffer underrun
+at:
+	[C++]: StreamSoundSource::update
+ERROR: audio buffer underrun
+at:
+	[C++]: StreamSoundSource::update
+Exiting application..
+== application started at Feb 11 2017 00:18:47
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+ERROR: audio buffer underrun
+at:
+	[C++]: StreamSoundSource::update
+RC Sounds: New sound area detected:
+  Position: {x=8245, y=9596, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+Exiting application..
+== application started at Feb 11 2017 08:30:37
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+ERROR: audio buffer underrun
+at:
+	[C++]: StreamSoundSource::update
+RC Sounds: New sound area detected:
+  Position: {x=8245, y=9595, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8245, y=9595, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8245, y=9595, z=7}
+  Music: music/Kingdomellon.ogg
+Exiting application..
+== application started at Feb 11 2017 10:15:10
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+ERROR: audio buffer underrun
+at:
+	[C++]: StreamSoundSource::update
+RC Sounds: New sound area detected:
+  Position: {x=8240, y=9599, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8245, y=9595, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8734, y=8616, z=7}
+  Music: music/Florest.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8845, y=9766, z=7}
+  Music: music/Divineworld.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8335, y=9424, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8532, y=9344, z=7}
+  Music: music/Florest.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8612, y=9240, z=7}
+  Music: music/Florest.ogg
+RC Sounds: New sound area detected:
+  Position: {x=9337, y=9177, z=7}
+  Music: music/Dark Forest.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9453, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8324, y=9433, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8376, y=9474, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8378, y=9476, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+ERROR: audio buffer underrun
+at:
+	[C++]: StreamSoundSource::update
+ERROR: audio buffer underrun
+at:
+	[C++]: StreamSoundSource::update
+Exiting application..
+== application started at Feb 13 2017 17:51:19
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+ERROR: audio buffer underrun
+at:
+	[C++]: StreamSoundSource::update
+RC Sounds: New sound area detected:
+  Position: {x=8331, y=9452, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8503, y=9430, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8346, y=9317, z=3}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8285, y=9657, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+Exiting application..
+== application started at Feb 13 2017 21:20:21
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+ERROR: audio buffer underrun
+at:
+	[C++]: StreamSoundSource::update
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8493, y=9274, z=7}
+  Music: music/Florest.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8376, y=9032, z=7}
+  Music: music/Florest.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8354, y=8939, z=7}
+  Music: music/Florest.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8532, y=8869, z=7}
+  Music: music/Florest.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8641, y=8899, z=7}
+  Music: music/Florest.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8868, y=8776, z=7}
+  Music: music/Florest.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8841, y=9297, z=7}
+  Music: music/Florest.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8859, y=8658, z=7}
+  Music: music/Florest.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+ERROR: no thing at pos:8884 8676 9, stackpos:1
+at:
+	[C++]: ProtocolGame::getMappedThing
+ERROR: no thing
+at:
+	[C++]: ProtocolGame::parseTileRemoveThing
+ERROR: no thing at pos:8911 8676 9, stackpos:1
+at:
+	[C++]: ProtocolGame::getMappedThing
+ERROR: no thing
+at:
+	[C++]: ProtocolGame::parseTileRemoveThing
+ERROR: no thing at pos:8890 8679 9, stackpos:2
+at:
+	[C++]: ProtocolGame::getMappedThing
+ERROR: no thing
+at:
+	[C++]: ProtocolGame::parseTileRemoveThing
+ERROR: no thing at pos:8881 8679 9, stackpos:2
+at:
+	[C++]: ProtocolGame::getMappedThing
+ERROR: no thing
+at:
+	[C++]: ProtocolGame::parseTileRemoveThing
+RC Sounds: New sound area detected:
+  Position: {x=8861, y=8667, z=7}
+  Music: music/Florest.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8845, y=9766, z=7}
+  Music: music/Divineworld.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8335, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+ERROR: audio buffer underrun
+at:
+	[C++]: StreamSoundSource::update
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+Exiting application..
+== application started at Feb 14 2017 22:01:00
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+ERROR: audio buffer underrun
+at:
+	[C++]: StreamSoundSource::update
+RC Sounds: New sound area detected:
+  Position: {x=8233, y=9417, z=7}
+  Music: music/Kingdomellon.ogg
+Exiting application..
+== application started at Feb 14 2017 22:03:17
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+ERROR: audio buffer underrun
+at:
+	[C++]: StreamSoundSource::update
+RC Sounds: New sound area detected:
+  Position: {x=8233, y=9417, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+Exiting application..
+== application started at Mar 18 2017 20:03:27
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+Exiting application..
+== application started at Mar 18 2017 20:03:56
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+Exiting application..
+== application started at Mar 18 2017 20:04:23
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+Exiting application..
+== application started at Mar 18 2017 20:05:27
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+RC Sounds: New sound area detected:
+  Position: {x=8104, y=9172, z=7}
+  Music: music/pvp.ogg
+ERROR: invalid effect id 0
+at:
+	[C++]: ProtocolGame::parseMagicEffect
+ERROR: invalid effect id 0
+at:
+	[C++]: ProtocolGame::parseMagicEffect
+ERROR: invalid effect id 0
+at:
+	[C++]: ProtocolGame::parseMagicEffect
+ERROR: invalid effect id 0
+at:
+	[C++]: ProtocolGame::parseMagicEffect
+RC Sounds: New sound area detected:
+  Position: {x=8350, y=9593, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8243, y=9594, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+ERROR: ProtocolGame parse message exception (52 bytes unread, last opcode is 170, prev opcode is 131): unknown message mode 18
+RC Sounds: New sound area detected:
+  Position: {x=8502, y=8829, z=7}
+  Music: music/Florest.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8503, y=8829, z=7}
+  Music: music/Florest.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8378, y=9483, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8507, y=8831, z=7}
+  Music: music/Florest.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8379, y=9480, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8377, y=9481, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+Exiting application..
+== application started at Mar 28 2017 00:15:11
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+RC Sounds: New sound area detected:
+  Position: {x=8382, y=9482, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8432, y=9429, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8432, y=9429, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8432, y=9429, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8443, y=9424, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8443, y=9424, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8443, y=9424, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8443, y=9424, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8443, y=9424, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+ERROR: no thing at pos:8375 9401 7, stackpos:3
+at:
+	[C++]: ProtocolGame::getMappedThing
+ERROR: no thing
+at:
+	[C++]: ProtocolGame::parseTileRemoveThing
+ERROR: no thing at pos:8375 9383 7, stackpos:2
+at:
+	[C++]: ProtocolGame::getMappedThing
+ERROR: no thing
+at:
+	[C++]: ProtocolGame::parseTileRemoveThing
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8510, y=9461, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8443, y=9424, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8443, y=9424, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8463, y=9454, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8466, y=9455, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8459, y=9455, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8466, y=9454, z=7}
+  Music: music/Kingdomellon.ogg
+Exiting application..
+== application started at Mar 29 2017 01:32:18
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+RC Sounds: New sound area detected:
+  Position: {x=8478, y=9459, z=7}
+  Music: music/Kingdomellon.ogg
+ERROR: server said that a creature is known, but it's not
+at:
+	[C++]: ProtocolGame::getCreature
+ERROR: server said that a creature is known, but it's not
+at:
+	[C++]: ProtocolGame::getCreature
+ERROR: server said that a creature is known, but it's not
+at:
+	[C++]: ProtocolGame::getCreature
+ERROR: no thing at pos:8468 9379 7, stackpos:1
+at:
+	[C++]: ProtocolGame::getMappedThing
+ERROR: no thing
+at:
+	[C++]: ProtocolGame::parseTileRemoveThing
+ERROR: no thing at pos:8477 9379 7, stackpos:2
+at:
+	[C++]: ProtocolGame::getMappedThing
+ERROR: no thing
+at:
+	[C++]: ProtocolGame::parseTileRemoveThing
+ERROR: server said that a creature is known, but it's not
+at:
+	[C++]: ProtocolGame::getCreature
+ERROR: server said that a creature is known, but it's not
+at:
+	[C++]: ProtocolGame::getCreature
+ERROR: no thing at pos:8505 9379 7, stackpos:3
+at:
+	[C++]: ProtocolGame::getMappedThing
+ERROR: no thing
+at:
+	[C++]: ProtocolGame::parseTileRemoveThing
+ERROR: no thing at pos:8432 9379 7, stackpos:3
+at:
+	[C++]: ProtocolGame::getMappedThing
+ERROR: no thing
+at:
+	[C++]: ProtocolGame::parseTileRemoveThing
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8465, y=9455, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8464, y=9454, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8478, y=9459, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9460, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8289, y=9636, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8373, y=9532, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+ERROR: no thing at pos:8371 9453 6, stackpos:1
+at:
+	[C++]: ProtocolGame::getMappedThing
+ERROR: no thing
+at:
+	[C++]: ProtocolGame::parseTileRemoveThing
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8443, y=9464, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8444, y=9464, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8443, y=9464, z=7}
+  Music: music/Kingdomellon.ogg
+Exiting application..
+== application started at Mar 29 2017 04:45:13
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+RC Sounds: New sound area detected:
+  Position: {x=8430, y=9463, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8331, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9460, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+Exiting application..
+== application started at Mar 29 2017 05:10:43
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+RC Sounds: New sound area detected:
+  Position: {x=8315, y=9448, z=6}
+  Music: music/Kingdomellon.ogg
+Exiting application..
+== application started at Mar 29 2017 05:15:00
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+RC Sounds: New sound area detected:
+  Position: {x=8315, y=9442, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8315, y=9448, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8316, y=9443, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8317, y=9444, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8325, y=9443, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8339, y=9445, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8339, y=9445, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8087, y=9168, z=6}
+  Music: music/pvp.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8330, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+Exiting application..
+== application started at Mar 29 2017 19:58:44
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+RC Sounds: New sound area detected:
+  Position: {x=8333, y=9457, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8333, y=9457, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8345, y=9613, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8333, y=9457, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8333, y=9457, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8286, y=9658, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8333, y=9457, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8333, y=9457, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8467, y=9455, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8467, y=9455, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8471, y=9455, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8470, y=9455, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8481, y=9457, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8467, y=9455, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8639, y=9255, z=6}
+  Music: music/Florest.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8638, y=9254, z=4}
+  Music: music/Florest.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9451, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+Exiting application..
+== application started at Mar 31 2017 23:27:39
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+RC Sounds: New sound area detected:
+  Position: {x=8373, y=9532, z=7}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9453, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9453, z=6}
+  Music: music/Kingdomellon.ogg
+== application started at Apr 01 2017 00:56:23
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9452, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9453, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9453, z=6}
+  Music: music/Kingdomellon.ogg
+Exiting application..
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9452, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8333, y=9453, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8331, y=9450, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8331, y=9453, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8333, y=9453, z=6}
+  Music: music/Kingdomellon.ogg
+== application started at Apr 01 2017 01:43:33
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9452, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8331, y=9451, z=6}
+  Music: music/Kingdomellon.ogg
+Exiting application..
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+== application started at Apr 01 2017 02:00:00
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9451, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8333, y=9451, z=6}
+  Music: music/Kingdomellon.ogg
+Exiting application..
+== application started at Apr 01 2017 02:25:26
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+RC Sounds: New sound area detected:
+  Position: {x=8338, y=9447, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8335, y=9452, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8335, y=9452, z=6}
+  Music: music/Kingdomellon.ogg
+Exiting application..
+RC Sounds: New sound area detected:
+  Position: {x=8338, y=9452, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+Exiting application..
+== application started at Apr 06 2017 23:12:15
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+RC Sounds: New sound area detected:
+  Position: {x=8333, y=9442, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+RC Sounds: New sound area detected:
+  Position: {x=8389, y=9485, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+ERROR: no thing at pos:9534 8560 7, stackpos:1
+at:
+	[C++]: ProtocolGame::getMappedThing
+ERROR: no thing
+at:
+	[C++]: ProtocolGame::parseTileRemoveThing
+ERROR: no thing at pos:9534 8576 7, stackpos:1
+at:
+	[C++]: ProtocolGame::getMappedThing
+ERROR: no thing
+at:
+	[C++]: ProtocolGame::parseTileRemoveThing
+ERROR: no thing at pos:9534 8580 7, stackpos:1
+at:
+	[C++]: ProtocolGame::getMappedThing
+ERROR: no thing
+at:
+	[C++]: ProtocolGame::parseTileRemoveThing
+ERROR: no thing at pos:9534 8592 7, stackpos:1
+at:
+	[C++]: ProtocolGame::getMappedThing
+ERROR: no thing
+at:
+	[C++]: ProtocolGame::parseTileRemoveThing
+ERROR: no thing at pos:9534 8598 7, stackpos:1
+at:
+	[C++]: ProtocolGame::getMappedThing
+ERROR: no thing
+at:
+	[C++]: ProtocolGame::parseTileRemoveThing
+ERROR: no thing at pos:9534 8604 7, stackpos:1
+at:
+	[C++]: ProtocolGame::getMappedThing
+ERROR: no thing
+at:
+	[C++]: ProtocolGame::parseTileRemoveThing
+ERROR: no thing at pos:9534 8609 7, stackpos:1
+at:
+	[C++]: ProtocolGame::getMappedThing
+ERROR: no thing
+at:
+	[C++]: ProtocolGame::parseTileRemoveThing
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9459, z=6}
+  Music: music/Kingdomellon.ogg
+Exiting application..
+== application started at Apr 11 2017 16:57:21
+OTClient 0.6.6 rev 0 (devel) built on Mar 10 2016 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+RC Sounds: New sound area detected:
+  Position: {x=8332, y=9442, z=6}
+  Music: music/Kingdomellon.ogg
+RC Sounds: New sound area detected:
+  Left music area.
+Exiting application..
