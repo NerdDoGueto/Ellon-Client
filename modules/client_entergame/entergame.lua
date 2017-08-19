@@ -147,7 +147,7 @@ function EnterGame.init()
     enterGame:show()
   end
   
-  EnterGame.setUniqueServer('158.69.5.35', 7171, 1076, 270, 210)
+  EnterGame.setUniqueServer('otvalar.no-ip.biz', 7171, 1076, 270, 210)
 end
 
 function EnterGame.firstShow()
