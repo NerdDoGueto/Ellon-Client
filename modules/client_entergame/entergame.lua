@@ -119,7 +119,7 @@ function EnterGame.init()
   local stayLogged = g_settings.getBoolean('staylogged')
   local autologin = g_settings.getBoolean('autologin')
   local clientVersion = g_settings.getInteger('client-version')
-  if clientVersion == 0 then clientVersion = 1076 end
+  if clientVersion == 0 then clientVersion = 860 end
 
   if port == nil or port == 0 then port = 7171 end
 
@@ -147,7 +147,7 @@ function EnterGame.init()
     enterGame:show()
   end
   
-  EnterGame.setUniqueServer('149.56.182.226', 7171, 1076, 270, 210)
+  EnterGame.setUniqueServer('ellononline.servegame.com', 7171, 860, 270, 210)
 end
 
 function EnterGame.firstShow()
@@ -233,7 +233,7 @@ function EnterGame.clearAccountFields()
 end
 
 function EnterGame.toggleAuthenticatorToken(clientVersion, init)
-  local enabled = (clientVersion >= 1072)
+  local enabled = (clientVersion >= 860)
   if enabled == enterGame.authenticatorEnabled then
     return
   end
@@ -262,7 +262,7 @@ function EnterGame.toggleAuthenticatorToken(clientVersion, init)
 end
 
 function EnterGame.toggleStayLoggedBox(clientVersion, init)
-  local enabled = (clientVersion >= 1074)
+  local enabled = (clientVersion >= 860)
   if enabled == enterGame.stayLoggedBoxEnabled then
     return
   end
