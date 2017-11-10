@@ -922,3 +922,8 @@ RC Sounds: New sound area detected:
   Position: {x=8594, y=9143, z=7}
   Music: music/City.ogg
 Exiting application..
+== application started at Nov 10 2017 10:58:20
+OTClient 0.6.6 rev 0 (devel) built on Nov  8 2015 for arch x86
+ERROR: Unable to load texture '/images/audio': unable to open file '/images/audio.png': O sistema não pode encontrar o caminho especificado.
+Startup done :]
+Exiting application..
